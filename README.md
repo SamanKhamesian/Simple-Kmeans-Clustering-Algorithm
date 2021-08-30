@@ -3,7 +3,7 @@
 ### Abstract
 K-means is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-means, each cluster is associated with a centroid. The main objective of the K-Means algorithm is to minimize the sum of distances between the points and their respective cluster centroid. Here is an example of how this algorithm works:
 
-![K-means algorithm result](Images/Result.png)
+![K-means algorithm result](Images/Result_04.png)
 
 #### To use this work on your researches or projects you need:
 * Python 3.7.0
